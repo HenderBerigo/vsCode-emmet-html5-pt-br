@@ -1,7 +1,7 @@
 # vsCode-snippet-html5-pt-br
 Snippets do VsCode para html5 pt-br
-No VsCode:
 
+No VsCode:
 File > Preferences > Configure User Snippets.
 
 > New Snippets
